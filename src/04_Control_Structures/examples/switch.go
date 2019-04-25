@@ -1,24 +1,8 @@
-package main
+package examples
 
 import "fmt"
 
 func main() {
-	// The for Statement
-	i := 1
-	for i <= 10 {
-		fmt.Println(i)
-		i = i + 1
-	}
-
-	// The if Statement
-	for i := 1; i <= 10; i++ {
-		if i % 2 == 0 {
-			fmt.Println(i, "even")
-		} else {
-			fmt.Println(i, "odd")
-		}
-	}
-
 	// The switch Statement
 	for i := 1; i <= 10; i++ {
 		switch i {
