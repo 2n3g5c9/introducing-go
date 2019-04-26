@@ -3,12 +3,7 @@ package main
 import "fmt"
 
 func half(number int) (int, bool) {
-	halfNumber := number / 2
-	if (number % 2) == 0 {
-		return halfNumber, true
-	} else {
-		return halfNumber, false
-	}
+	return number/2, number%2==0
 }
 
 func main() {
