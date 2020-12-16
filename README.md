@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="512" src="https://raw.githubusercontent.com/2n3g5c9/introducing-go/master/img/introducing-go_banner.png" alt="introducing-go">
+  <img width="512" src="https://raw.githubusercontent.com/2n3g5c9/introducing-go/master/img/banner.png" alt="introducing-go">
 </div>
 
 <br />
@@ -10,25 +10,25 @@
 
 ## Code quick access
 
-[Chapter 1 - Getting Started](https://github.com/2n3g5c9/introducing-go/tree/master/src/01_Getting_Started)
+[Chapter 1 - Getting Started](./01_Getting_Started)
 
-[Chapter 2 - Types](https://github.com/2n3g5c9/introducing-go/tree/master/src/02_Types)
+[Chapter 2 - Types](./02_Types)
 
-[Chapter 3 - Variables](https://github.com/2n3g5c9/introducing-go/tree/master/src/03_Variables)
+[Chapter 3 - Variables](./03_Variables)
 
-[Chapter 4 - Control Structures](https://github.com/2n3g5c9/introducing-go/tree/master/src/04_Control_Structures)
+[Chapter 4 - Control Structures](./04_Control_Structures)
 
-[Chapter 5 - Arrays Slices and Maps](https://github.com/2n3g5c9/introducing-go/tree/master/src/05_Arrays_Slices_and_Maps)
+[Chapter 5 - Arrays Slices and Maps](./05_Arrays_Slices_and_Maps)
 
-[Chapter 6 - Functions](https://github.com/2n3g5c9/introducing-go/tree/master/src/06_Functions)
+[Chapter 6 - Functions](./06_Functions)
 
-[Chapter 7 - Structs and Interfaces](https://github.com/2n3g5c9/introducing-go/tree/master/src/07_Structs_and_Interfaces)
+[Chapter 7 - Structs and Interfaces](./07_Structs_and_Interfaces)
 
-[Chapter 8 - Packages](https://github.com/2n3g5c9/introducing-go/tree/master/src/08_Packages)
+[Chapter 8 - Packages](./08_Packages)
 
-[Chapter 9 - Testing](https://github.com/2n3g5c9/introducing-go/tree/master/src/09_Testing)
+[Chapter 9 - Testing](./09_Testing)
 
-[Chapter 10 - Concurrency](https://github.com/2n3g5c9/introducing-go/tree/master/src/10_Concurrency)
+[Chapter 10 - Concurrency](./10_Concurrency)
 
 ## Prerequisites
 
