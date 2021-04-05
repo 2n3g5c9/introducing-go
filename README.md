@@ -2,13 +2,27 @@
   <img width="512" src="https://raw.githubusercontent.com/2n3g5c9/introducing-go/master/img/banner.png" alt="introducing-go">
 </div>
 
-<br />
+<p align="center">
+    <a href="#-code-quick-access">Code quick access</a>
+    &nbsp; • &nbsp;
+    <a href="#-prerequisites">Prerequisites</a>
+    &nbsp; • &nbsp;
+    <a href="#-how-to-use">How to use</a>
+    &nbsp; • &nbsp;
+    <a href="#-techframeworks-used">Tech/frameworks used</a>
+    &nbsp; • &nbsp;
+    <a href="#-license">License</a>
+</p>
 
-<div align="center">Code snippets behind the concepts in "Introducing Go" published by O'Reilly</div>
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/2n3g5c9/introducing-go.svg?style=flat" alt="languages-badge"/>
+    <img src="https://img.shields.io/github/license/2n3g5c9/introducing-go" alt="license-badge">
+    <img src="https://img.shields.io/github/repo-size/2n3g5c9/introducing-go" alt="repo-size-badge">
+    <img src="https://img.shields.io/github/last-commit/2n3g5c9/introducing-go" alt="last-commit-badge">
+    <img src="https://img.shields.io/github/issues-raw/2n3g5c9/introducing-go" alt="open-issues-badge">
+</p>
 
-<br />
-
-## Code quick access
+## 🚀 Code quick access
 
 [Chapter 1 - Getting Started](./01_Getting_Started)
 
@@ -30,11 +44,11 @@
 
 [Chapter 10 - Concurrency](./10_Concurrency)
 
-## Prerequisites
+## ✅ Prerequisites
 
 To run the examples in the repository, you need to have the Go tools installed on your computer: https://golang.org/doc/install#install
 
-## How to use
+## 🤨 How to use
 
 Simply compile and run the code in one of the subdirectories:
 
@@ -42,10 +56,10 @@ Simply compile and run the code in one of the subdirectories:
 go run main.go
 ```
 
-## Tech/frameworks used
+## 🪄 Tech/frameworks used
 
 - [Go](https://golang.org/): Open source programming language that makes it easy to build simple, reliable, and efficient software.
 
-## License
+## 📃 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
